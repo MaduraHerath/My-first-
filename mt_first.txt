@@ -1,3 +1,8 @@
 this is my first code 
+git config --global user.name "Madura"
+git config --global user.email "sadsd@gmail.com
 git init
 git status 
+git .add mt_first
+git commit -m "karapu wenas kama"
+git log
