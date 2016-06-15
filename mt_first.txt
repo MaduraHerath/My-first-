@@ -6,3 +6,4 @@ git status
 git .add mt_first
 git commit -m "karapu wenas kama"
 git log
+git diff 

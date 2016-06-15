@@ -1,1 +1,6 @@
 this is third one
+whot the $ is he?
+git push oigin master
+git pull
+git clone
+onna wenas kala
